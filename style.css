@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    color: white;
+    margin-left: 30px;
+}
+
+button{
+    width:22%;
+    /* height:10%; */
+    border-radius: none !important;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+input{
+    margin-left:20px;
+}
+
+
+.lb2{
+    margin-left:3px !important;
+}
+.inp2{
+   margin-left:30px;
+}
+table, th {
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding:10px 50px 10px 13px;
+  }
+  table{
+    margin-top:40px;
+  }
+
+  td{
+    color:white;
+  }
+  tbody{
+    color:white;
+  }
